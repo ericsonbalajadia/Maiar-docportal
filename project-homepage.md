@@ -18,8 +18,8 @@ Target: MA.010.001
 ### [Project Homepage](project-homepage.md)
 
 ### **Requester Requirements**
-- [FR 1.0 - Online Request Submission](online-request-submission.md)
-  - [Submit Form](submit-repair-request-submit-form.md)
+- [FR 1.0 - Online Request Submission](docs/online-request-submission.md)
+  - [Submit Form](docs/submit-repair-request-submit-form.md)
   - [Upload Photos](submit-repair-request-upload-photos.md)
   - [Validate Request](submit-repair-request-validate-request.md)
 - [FR 1.1 - Request Tracking](request-tracking.md)
