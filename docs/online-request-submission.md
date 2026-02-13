@@ -1,5 +1,5 @@
-## White Cloud  
-**Target:** AB.010.001
+## Maiar 
+**Target:** MA.010.001
 
 ---
 #### Site Map
@@ -29,7 +29,7 @@ The dashboard shows:
 Allows a requester to submit a new service or repair request
 
 
-| Element | Description |
+|  | Description |
 |--------|-------------|
 | **Actor** | Requester |
 | **Precondition** | The requester must be logged in to the system. |
