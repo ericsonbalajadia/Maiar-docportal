@@ -59,4 +59,4 @@ System checks whether the entered data is complete and valid.
 
 ---
 
-© 2026 Oryza
+<p style="text-align: center;">© 2026 Oryza</p>

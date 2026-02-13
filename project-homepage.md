@@ -1,10 +1,10 @@
-# Maiar
-## Web-based Repair and Service Request Management System for University General Services Office
+## Maiar
+### Web-based Repair and Service Request Management System for University General Services Office
 Target: MA.010.001
 
 ---
 
-## Version History
+### Version History
 
 | Revision Date | Document Version | Description | Tracking Notes | Approved By |
 |--------------|------------------|-------------|----------------|-------------|
@@ -13,11 +13,11 @@ Target: MA.010.001
 
 ---
 
-## Site Map
+### Site Map
 
-### [Project Homepage](project-homepage.md)
+#### [Project Homepage](project-homepage.md)
 
-### **Requester Requirements**
+#### **Requester Requirements**
 - [FR 1.0 - Online Request Submission](docs/online-request-submission.md)
   - [Submit Form](docs/submit-repair-request-submit-form.md)
   - [Upload Photos](submit-repair-request-upload-photos.md)
@@ -30,14 +30,14 @@ Target: MA.010.001
 - [FR 1.3 - Feedback System](feedback-system.md)
   - [Submit Feedback](submit-feedback.md)
 
-### **Clerk Requirements**
+#### **Clerk Requirements**
 - [FR 2.0 - Status Update](status-update.md)
   - [Add Comments](update-request-status-add-comments.md)
   - [Send Notification](update-request-status-send-notification.md)
 - [FR 2.1 - Request Review](request-review.md)
   - [Retrieve Request Details](review-request-retrieve-request-details.md)
 
-### **Personnel Requirements**
+#### **Personnel Requirements**
 - [FR 3.0 - Repair/Service Scheduling](repair-service-scheduling.md)
   - [Check Technician Availability](schedule-repair-check-technician-availability.md)
 - [FR 3.1 - Technician Assignment](technician-assignment.md)
@@ -46,17 +46,15 @@ Target: MA.010.001
 
 ---
 
-## User Roles
+#### User Roles
 
-### Requester
-Users who can submit repair/service requests online, track their requests in real-time, receive email notifications, and provide feedback after completion.
-
-### Clerk (GS Clerk)
-Staff members who review submitted requests, update request statuses, and manage the approval workflow.
-
-### Personnel (GS Personnel)
-Staff members who schedule repairs, assign technicians to specific requests, and manage the overall repair/service operations.
+|  | |
+|--------------|-----------------|
+| **Requester** | Users who can submit repair/service requests online, track their requests in real-time, receive email notifications, and provide feedback after completion. |
+| **Clerk (GS Clerk)** | Staff members who review submitted requests, update request statuses, and manage the approval workflow. |
+| **Personnel (GS Personnel)** | Staff members who schedule repairs, assign technicians to specific requests, and manage the overall repair/service operations. |
 
 ---
 
-© 2026 Oryza
+<p style="text-align: center;">© 2026 Oryza</p>
+
