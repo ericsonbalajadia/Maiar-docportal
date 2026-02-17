@@ -12,10 +12,6 @@ Allow requesters to view real-time status of their submitted requests
 
 ---
 
-#### Mockup/Wireframe
-
----
-
 ### Use Case: Track Request
 Allows requester to manage their request and view the status of their submitted requests.
 

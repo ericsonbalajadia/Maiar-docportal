@@ -20,29 +20,29 @@ Target: MA.010.001
 #### **Requester Requirements**
 - [FR 1.0 - Online Request Submission](docs/online-request-submission.md)
   - [Submit Form](docs/submit-repair-request-submit-form.md)
-  - [Upload Photos](submit-repair-request-upload-photos.md)
-  - [Validate Request](submit-repair-request-validate-request.md)
-- [FR 1.1 - Request Tracking](request-tracking.md)
-  - [Add Comments](track-request-add-comments.md)
-  - [Retrieve Request Details](track-request-retrieve-request-details.md)
-- [FR 1.2 - Email Notification System](email-notification-system.md)
-  - [Send Notification](send-notification.md)
-- [FR 1.3 - Feedback System](feedback-system.md)
-  - [Submit Feedback](submit-feedback.md)
+  - [Upload Photos](docs/submit-repair-request-upload-photos.md)
+  - [Validate Request](docs/submit-repair-request-validate-request.md)
+- [FR 1.1 - Request Tracking](docs/request-tracking.md)
+  - [Add Comments](docs/track-request-add-comments.md)
+  - [Retrieve Request Details](docs/track-request-retrieve-request-details.md)
+- [FR 1.2 - Email Notification System](docs/email-notification-system.md)
+  - [Send Notification](docs/send-notification.md)
+- [FR 1.3 - Feedback System](docs/feedback-system.md)
+  - [Submit Feedback](docs/submit-feedback.md)
 
 #### **Clerk Requirements**
-- [FR 2.0 - Status Update](status-update.md)
-  - [Add Comments](update-request-status-add-comments.md)
-  - [Send Notification](update-request-status-send-notification.md)
-- [FR 2.1 - Request Review](request-review.md)
-  - [Retrieve Request Details](review-request-retrieve-request-details.md)
+- [FR 2.0 - Status Update](docs/status-update.md)
+  - [Add Comments](docs/update-request-status-add-comments.md)
+  - [Send Notification](docs/update-request-status-send-notification.md)
+- [FR 2.1 - Request Review](docs/request-review.md)
+  - [Retrieve Request Details](docs/review-request-retrieve-request-details.md)
 
 #### **Personnel Requirements**
-- [FR 3.0 - Repair/Service Scheduling](repair-service-scheduling.md)
-  - [Check Technician Availability](schedule-repair-check-technician-availability.md)
-- [FR 3.1 - Technician Assignment](technician-assignment.md)
-  - [Assign Technician](assign-technician.md)
-- [FR 3.2 - Personnel Status Update](personnel-status-update.md)
+- [FR 3.0 - Repair/Service Scheduling](docs/repair-service-scheduling.md)
+  - [Check Technician Availability](docs/schedule-repair-check-technician-availability.md)
+- [FR 3.1 - Technician Assignment](docs/technician-assignment.md)
+  - [Assign Technician](docs/assign-technician.md)
+- [FR 3.2 - Personnel Status Update](docs/personnel-status-update.md)
 
 ---
 
