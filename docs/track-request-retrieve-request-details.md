@@ -8,7 +8,7 @@
 
 ---
 
-## _Track Request – Retrieve Request Details_
+### Track Request – Retrieve Request Details
 System shows request details to requester.
 
 |  | Description |

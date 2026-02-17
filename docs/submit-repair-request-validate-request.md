@@ -8,7 +8,7 @@
 
 ---
 
-## _Submit Repair Request – Submit Form – Validate Request_
+### Submit Repair Request – Submit Form – Validate Request
 System checks whether the entered data is complete and valid.
 
 

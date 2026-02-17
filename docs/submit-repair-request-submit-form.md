@@ -8,7 +8,7 @@
 
 ---
 
-## _Submit Repair Request – Submit Form_
+### Submit Repair Request – Submit Form
 The requester fills out and submits the repair request form.
 
 |  | Description |

@@ -7,7 +7,7 @@
 [Project Homepage](../project-homepage.md) > [Online Request Submission](online-request-submission.md) > **Upload Photos**
 
 ---
-## _Submit Repair Request – Submit Form – Upload Photo/s_
+### Submit Repair Request – Submit Form – Upload Photo/s
 The requester uploads photo attachments for the repair request.
 
 
