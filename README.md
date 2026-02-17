@@ -59,4 +59,4 @@ Staff members who schedule repairs, assign technicians to specific requests, and
 
 ---
 
-© 2026 Oryza
+<p align="center">© 2026 Oryza</p>

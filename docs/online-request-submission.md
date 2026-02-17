@@ -1,7 +1,5 @@
 ## Maiar 
 **Target:** MA.010.001
-
----
 #### Site Map
 [Project Homepage](../project-homepage.md) > **Online Request Submission**
 
@@ -35,7 +33,6 @@ Allows a requester to submit a new service or repair request
 | **Precondition** | The requester must be logged in to the system. |
 | **Postcondition** | A new repair/service request is recorded in the system and is awaiting review by the clerk. |
 
----
 
 #### Basic Flows
 
@@ -59,4 +56,5 @@ System checks whether the entered data is complete and valid.
 
 ---
 
-<p style="text-align: center;">© 2026 Oryza</p>
+<p align="center">© 2026 Oryza</p>
+

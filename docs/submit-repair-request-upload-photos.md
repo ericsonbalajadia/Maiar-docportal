@@ -17,7 +17,6 @@ The requester uploads photo attachments for the repair request.
 | **Preconditions** | Repair form is open |
 | **Postconditions** | Photo(s) are attached to the form |
 
----
 
 #### Basic Flows
 
@@ -28,5 +27,6 @@ The requester uploads photo attachments for the repair request.
 
 ---
 
-<p style="text-align: center;">© 2026 Oryza</p>
+<p align="center">© 2026 Oryza</p>
+
 

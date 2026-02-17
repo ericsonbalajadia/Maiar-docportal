@@ -56,5 +56,6 @@ Target: MA.010.001
 
 ---
 
-<p style="text-align: center;">© 2026 Oryza</p>
+<p align="center">© 2026 Oryza</p>
+
 
