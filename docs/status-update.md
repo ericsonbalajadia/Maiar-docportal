@@ -9,17 +9,16 @@
 ---
 
 ### FR 2.0 - Status Update
-Allow GS Clerk to update request status (pending, approved, in-progress, completed, cancelled)
+Allow GS Clerk/Personnel to update request status (pending, approved, in-progress, completed, cancelled)
 
 ---
 
 ### Use Case: Update Status
-Allows clerks to update the status of requests in the system.
+Allow clerk/personnel to update the status of requests in the system.
 
 |  | Description |
 |--------|-------------|
-| **Actor** | Clerk |
-| | Personnel |
+| **Actor** | Clerk, Personnel |
 | **Precondition** | Request exists in the system |
 | **Postcondition** | FRequest status is updated and visible to requester |
 
@@ -39,8 +38,8 @@ Allows clerks to update the status of requests in the system.
 | **Pending** | New request awaiting review | System (auto) | Approved, Cancelled |
 | **Approved** | Request approved, awaiting assignment | Clerk | Assigned, Cancelled |
 |  | Personnel assigns technician | Personnel |  |
-| **In Progress** | Work is ongoing | Personnel | Completed, Assigned |
-| **Completed** | Work finished | Personnel | (Final state) |
+| **In Progress** | Work is ongoing | Personnel, Clerk | Completed, Assigned |
+| **Completed** | Work finished | Personnel, Clerk | (Final state) |
 | **Cancelled** | Request cancelled | Clerk/Requester | (Final state) |
 
 ---
