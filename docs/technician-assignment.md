@@ -33,9 +33,4 @@ Personnel assigns a technician to a repair request.
 
 ---
 
-#### Sub-Use Cases
-- [Assign Technician](assign-technician.md)
-
----
-
 <p align="center">© 2026 Oryza</p>

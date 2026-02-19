@@ -41,7 +41,6 @@ Target: MA.010.001
 - [FR 3.0 - Repair/Service Scheduling](docs/repair-service-scheduling.md)
   - [Check Technician Availability](docs/schedule-repair-check-technician-availability.md)
 - [FR 3.1 - Technician Assignment](docs/technician-assignment.md)
-  - [Assign Technician](docs/assign-technician.md)
 - [FR 3.2 - Personnel Status Update](docs/personnel-status-update.md)
 
 ---
