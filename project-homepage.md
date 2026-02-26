@@ -8,7 +8,12 @@ Target: MA.010.001
 
 | Revision Date | Document Version | Description | Tracking Notes | Approved By |
 |--------------|------------------|-------------|----------------|-------------|
-| 2025-02-13 | v1.0.0 | Site map revised to align with FR/UR Mapping traceability <br>and Use Case Diagram requirements | RD-0067 | Rose Ann <br>Designer |
+| 2025-02-27 | v1.4 | Update version history table in README for documentation compliance | MA-0005 | Balajadia, Ericson <br>Lead Developer |
+| 2025-02-25 | v1.3 | Update target version in README | MA-0004 | Dacutanan, Angielyn <br>Project Manager |
+| 2025-02-19 | v1.2 | Add Personnel docs: FR 3.0 repair scheduling, FR 3.1 technician assignment, FR 3.2 personnel status update; remove redundant link | MA-0003 | Balajadia, Ericson <br>Lead Developer |
+| 2025-02-18 | v1.1 | AAdd Clerk docs: FR 2.0 status update, FR 2.1 request review with sub-use-case specs | MA-0002 | Balajadia, Ericson <br>Lead Developer |
+| 2025-02-17 | v1.0 | Add Requester docs: FR 1.1 request tracking, FR 1.2 email notification, FR 1.3 feedback system with sub-use-case specs | MA-0001 | Balajadia, Ericson <br>Lead Developer |
+| 2025-02-13 | v0.1| Initial portal setup; add project homepage, FR 1.0 online request submission with photo upload and submit form; update sitemap for FR/UR mapping compliance | MA-0000 | Balajadia, Ericson <br>Lead Developer |
 
 
 ---
